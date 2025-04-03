@@ -1,5 +1,4 @@
-# Gi-3.2-AGP-Clone-patch
-Genshin Impact 3.2 + Anime Game Proxy để vô private server<br/>
+# Genshin Impact 3.2 Clone + AnimeGamesProxy Patch
 TODO : Làm cái proper readme<br/>
 Các app + project cần thiết để clone :<br/>
 https://genshin-impact.vi.uptodown.com/android/download/85805534<br/>
